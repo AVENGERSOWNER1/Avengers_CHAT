@@ -13,15 +13,15 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 STRING1 = getenv("STRING_SESSION", None)
 DB_NAME = "deepak-bot"
 MONGO_URL = getenv("MONGO_URL", None)
-OWNER_ID = int(getenv("OWNER_ID", "7978151350"))
-BOT_ID = int(getenv("BOT_ID", "7940019678"))
-SUPPORT_GRP = "BESTIE_UNITE_CLUB"
-UPDATE_CHNL = "Silenthrex"
+OWNER_ID = int(getenv("OWNER_ID", "8195333063"))
+BOT_ID = int(getenv("BOT_ID", "7671407152"))
+SUPPORT_GRP = "UFC_UPDATES"
+UPDATE_CHNL = "ll_P_U_L_lI"
 OWNER_USERNAME = "silenthrax"
 TIME_ZONE = "Asia/Kolkata"
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002267586320"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002286471112"))
 # --------------------------------------------------------------
-SUDOERS = list(map(int, getenv("SUDOERS", "7982034286").split()))
+SUDOERS = list(map(int, getenv("SUDOERS", "8195333063").split()))
 # --------------------------------------------------------------
 
 ### DONT TOUCH or EDIT codes after this line
@@ -30,6 +30,6 @@ BANNED_USERS = filters.user()
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Silenthrax/AI2",
+    "https://github.com/UFCUPDATES/INAYA_CHAT",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
