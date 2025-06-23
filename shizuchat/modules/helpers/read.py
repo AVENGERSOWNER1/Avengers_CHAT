@@ -22,8 +22,8 @@ START = """**
 ┗━━━━━•❃°•°❀•━━━━━┛
 
 ╔═══════════════╗
- ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/UFC_UPDATES)
- ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)
+ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/AK_NETWORKK)
+ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER)
 ╚═══════════════╝
 **"""
 
@@ -34,11 +34,11 @@ OWNER = f"""**
 ──────────────
 ➻ /restart  ʀᴇsᴛᴀʀᴛ &  ᴜᴘᴅᴀᴛᴇ ʀᴇᴘᴏ.  
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/UFC_UPDATES).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/+ijVUQc7TNEUwNmNl).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
@@ -64,7 +64,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /rankings /overall ᴜsᴇʀ ᴍsɢ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
 AIBOT_READ = f"""**
@@ -78,7 +78,7 @@ AIBOT_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /blackbox ᴡʀɪᴛᴇ ꜱɪᴍᴘʟᴇ ꜰʟᴀꜱᴋ ᴀᴘᴘ ᴄᴏᴅᴇ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -90,10 +90,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /resetlang, /nolang - ʀᴇsᴇᴛs ᴛʜᴇ ʙᴏᴛ's ʟᴀɴɢᴜᴀɢᴇ ᴛᴏ ᴍɪxᴇᴅ ʟᴀɴɢᴜᴀɢᴇ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [ᴘɪᴄᴋ υᴘ ʟɪηєs](https://t.me/ll_P_U_L_lI).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{shizuchat.name}](https://t.me/{shizuchat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [ᴘɪᴄᴋ υᴘ ʟɪηєs](https://t.me/ll_P_U_L_lI).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ2 = f"""**
 ๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {shizuchat.mention}:
@@ -120,7 +120,7 @@ ADMIN_READ2 = f"""**
 ──────────────
 ➻ ᴜsᴇ /unmute - ᴜɴᴍᴜᴛᴇ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
 ADMIN_READ = f"""**
@@ -142,7 +142,7 @@ ADMIN_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /warns - ꜱʜᴏᴡ ᴡᴀʀɴɪɴɢ ᴏꜰ ᴀ ᴜꜱᴇʀ .
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝐇єᴧʀ፝֠֩ᴛʙєᴧᴛ](https://t.me/l_HEART_BEAT_l) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [˹𐓘ᴠᴇɴɢᴇʀs˼](https://t.me/AVENGERS_OWNER) 💞**
 """
 
 ABOUT_READ = f"""
